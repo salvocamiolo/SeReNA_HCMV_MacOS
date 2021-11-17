@@ -3,11 +3,11 @@
 cd -- "$(dirname -- "$BASH_SOURCE")"
 
 installationPath=$(pwd)
-echo "#!"$installationPath"/src/conda/bin/python" > HCMV_DB
-echo "installationDirectory = \""$installationPath"/\"" >> HCMV_DB
-echo " " >> HCMV_DB
-cat HCMV_DB ./src/.HCMV_DB.py >temp ; mv temp HCMV_DB
-chmod +x HCMV_DB
+echo "#!"$installationPath"/src/conda/bin/python" > SeReNA
+echo "installationDirectory = \""$installationPath"/\"" >> SeReNA
+echo " " >> SeReNA
+cat SeReNA ./src/.HCMV_DB.py >temp ; mv temp SeReNA
+chmod +x SeReNA
 
 if  test -f "./src/conda/bin/conda"; then
 	echo "Miniconda3 already installed"
