@@ -512,7 +512,7 @@ class Ui_MainWindow(object):
 	
 	def retranslateUi(self, MainWindow):
 		_translate = QtCore.QCoreApplication.translate
-		MainWindow.setWindowTitle(_translate("MainWindow", "HCMV Sequence DB"))
+		MainWindow.setWindowTitle(_translate("MainWindow", "SeReNA"))
 		self.label.setText(_translate("MainWindow", "Sample type"))
 		self.label_2.setText(_translate("MainWindow", "Sample number"))
 		self.label_3.setText(_translate("MainWindow", "Sample date"))
