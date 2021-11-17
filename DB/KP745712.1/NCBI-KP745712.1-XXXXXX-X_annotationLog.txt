@@ -1,0 +1,419 @@
+A valid ORF has been found for gene UL57!
+
+A valid ORF has been found for gene UL130!
+
+A valid ORF has been found for gene UL50!
+
+A valid ORF has been found for gene UL7!
+
+A valid ORF has been found for gene UL122!
+
+A valid ORF has been found for gene UL10!
+
+A valid ORF has been found for gene UL45!
+
+A valid ORF has been found for gene UL17!
+
+
+UL42
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Found a stop codon while searching for start codon upstream!
+Start codon could not be found upstream
+- Looking for start codon downstream....
+Valid start codon found downstream!
+- Start codon refined  0 codons downstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream
+- Stop codon refined 1 codon(s) downstream
+A valid ORF has been found for gene UL42!
+
+A valid ORF has been found for gene US19!
+
+A valid ORF has been found for gene UL74!
+
+A valid ORF has been found for gene UL146!
+
+A valid ORF has been found for gene UL26!
+
+A valid ORF has been found for gene UL73!
+
+A valid ORF has been found for gene UL141!
+
+A valid ORF has been found for gene UL114!
+
+
+US28
+Either the start or the stop codon was not found. Searching nearby....
+Valid start codon found upstream!
+- Start codon refined  2 codons upstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream
+- Stop codon refined 0 codon downstream
+A valid ORF has been found for gene US28!
+
+
+UL30A
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Looking for start codon downstream....
+Start codon could not be found at this stage
+The prediction was not successfull! Now attempting a refinement....
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Looking for start codon downstream....
+Start codon could not be found at this stage
+An incomplete ORF for gene UL30A after prediction refinement!
+A valid ORF has been found for gene UL99!
+
+A valid ORF has been found for gene UL33!
+
+A valid ORF has been found for gene UL34!
+
+A valid ORF has been found for gene RL11!
+
+A valid ORF has been found for gene UL124!
+
+A valid ORF has been found for gene UL43!
+
+A valid ORF has been found for gene UL16!
+
+A valid ORF has been found for gene UL123!
+
+A valid ORF has been found for gene UL44!
+
+A valid ORF has been found for gene UL11!
+
+A valid ORF has been found for gene UL131A!
+
+A valid ORF has been found for gene US18!
+
+A valid ORF has been found for gene UL51!
+
+A valid ORF has been found for gene UL136!
+
+A valid ORF has been found for gene UL56!
+
+A valid ORF has been found for gene UL6!
+
+A valid ORF has been found for gene RL8A!
+
+A valid ORF has been found for gene UL1!
+
+A valid ORF has been found for gene UL35!
+
+A valid ORF has been found for gene UL100!
+
+A valid ORF has been found for gene UL32!
+
+A valid ORF has been found for gene UL98!
+
+A valid ORF has been found for gene RL10!
+
+A valid ORF has been found for gene UL72!
+
+A valid ORF has been found for gene UL27!
+
+A valid ORF has been found for gene UL115!
+
+A valid ORF has been found for gene UL140!
+
+A valid ORF has been found for gene UL75!
+
+A valid ORF has been found for gene UL20!
+
+A valid ORF has been found for gene UL112!
+
+A valid ORF has been found for gene UL147!
+
+A valid ORF has been found for gene RL1!
+
+
+RL6
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Looking for start codon downstream....
+Valid start codon found downstream!
+- Start codon refined  7 codons downstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream
+- Stop codon refined 0 codon(s) downstream
+The prediction was not successfull! Now attempting a refinement....
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Looking for start codon downstream....
+Valid start codon found dowstream!
+- Start codon refined  7 codons dowstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream!
+- Stop codon refined 0 codon downstream
+A valid ORF for gene RL6 after prediction refinement!
+A valid ORF has been found for gene US29!
+
+A valid ORF for gene UL74A after prediction refinement!
+A valid ORF has been found for gene UL80!
+
+A valid ORF has been found for gene UL87!
+
+A valid ORF has been found for gene UL78!
+
+A valid ORF has been found for gene US23!
+
+A valid ORF has been found for gene US24!
+
+A valid ORF has been found for gene UL92!
+
+A valid ORF has been found for gene UL38!
+
+A valid ORF has been found for gene UL95!
+
+A valid ORF has been found for gene US1!
+
+A valid ORF has been found for gene US31!
+
+A valid ORF has been found for gene US6!
+
+A valid ORF has been found for gene TRS1!
+
+A valid ORF has been found for gene UL111A!
+
+A valid ORF has been found for gene UL49!
+
+A valid ORF has been found for gene US12!
+
+A valid ORF has been found for gene US15!
+
+A valid ORF has been found for gene UL94!
+
+A valid ORF has been found for gene UL93!
+
+A valid ORF has been found for gene US7!
+
+A valid ORF has been found for gene US30!
+
+A valid ORF has been found for gene UL79!
+
+A valid ORF has been found for gene UL86!
+
+A valid ORF for gene UL119 after prediction refinement!
+
+RL5A
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Found a stop codon while searching for start codon upstream!
+Start codon could not be found upstream
+- Looking for start codon downstream....
+Valid start codon found downstream!
+- Start codon refined  16 codons downstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream
+- Stop codon refined 0 codon(s) downstream
+The prediction was not successfull! Now attempting a refinement....
+Either the start or the stop codon was not found. Searching nearby....
+- Looking for start codon upstream....
+- Found a stop codon while searching for start codon upstream!
+Start codon could not be found upstream
+- Looking for start codon downstream....
+Valid start codon found dowstream!
+- Start codon refined  16 codons dowstream
+- Looking for stop codon downstream....
+Valid stop codon found downstream!
+- Stop codon refined 0 codon downstream
+A valid ORF for gene RL5A after prediction refinement!
+A valid ORF has been found for gene US22!
+
+A valid ORF has been found for gene UL48!
+
+A valid ORF has been found for gene UL128!
+
+A valid ORF has been found for gene US14!
+
+A valid ORF has been found for gene US13!
+
+A valid ORF has been found for gene IRS1!
+
+A valid ORF has been found for gene UL148A!
+
+A valid ORF has been found for gene US2!
+
+A valid ORF has been found for gene US32!
+
+A valid ORF has been found for gene UL91!
+
+A valid ORF has been found for gene UL69!
+
+A valid ORF has been found for gene UL96!
+
+A valid ORF has been found for gene UL15A!
+
+A valid ORF has been found for gene US20!
+
+A valid ORF has been found for gene US27!
+
+A valid ORF has been found for gene UL29!
+
+A valid ORF has been found for gene UL83!
+
+A valid ORF has been found for gene UL84!
+
+A valid ORF has been found for gene US11!
+
+A valid ORF has been found for gene US16!
+
+A valid ORF has been found for gene UL18!
+
+A valid ORF has been found for gene UL148C!
+
+A valid ORF has been found for gene UL8!
+
+A valid ORF has been found for gene UL148D!
+
+A valid ORF has been found for gene UL138!
+
+A valid ORF has been found for gene UL48A!
+
+A valid ORF has been found for gene US26!
+
+A valid ORF has been found for gene US21!
+
+A valid ORF has been found for gene UL148!
+
+A valid ORF has been found for gene UL85!
+
+A valid ORF has been found for gene UL82!
+
+A valid ORF has been found for gene US34!
+
+A valid ORF has been found for gene US3!
+
+A valid ORF has been found for gene UL97!
+
+A valid ORF for gene UL9 after prediction refinement!
+
+UL9
+Either the start or the stop codon was not found. Searching nearby....
+- Found a stop codon while searching for start codon upstream!
+Start codon could not be found upstream
+- Looking for start codon downstream....
+Start codon could not be found at this stage
+The prediction was not successfull! Now attempting a refinement....
+A valid ORF has been found for gene UL9 after prediction refinement!
+- The coding sequence is interrupted by a stop codon
+- The coding sequence length is not multiple of 3
+
+A valid ORF has been found for gene UL148B!
+
+A valid ORF has been found for gene UL139!
+
+A valid ORF has been found for gene US17!
+
+A valid ORF has been found for gene US10!
+
+A valid ORF has been found for gene UL19!
+
+A valid ORF has been found for gene RL9A!
+
+A valid ORF has been found for gene UL21A!
+
+A valid ORF has been found for gene US33A!
+
+A valid ORF has been found for gene UL121!
+
+A valid ORF has been found for gene UL13!
+
+A valid ORF has been found for gene UL46!
+
+A valid ORF has been found for gene UL14!
+
+A valid ORF has been found for gene UL4!
+
+A valid ORF has been found for gene UL54!
+
+A valid ORF has been found for gene UL133!
+
+A valid ORF has been found for gene UL53!
+
+A valid ORF has been found for gene RL12!
+
+A valid ORF has been found for gene US9!
+
+A valid ORF has been found for gene UL102!
+
+A valid ORF has been found for gene UL30!
+
+A valid ORF has been found for gene UL150!
+
+A valid ORF has been found for gene UL105!
+
+A valid ORF has been found for gene UL37!
+
+A valid ORF has been found for gene UL77!
+
+A valid ORF has been found for gene UL88!
+
+A valid ORF has been found for gene UL145!
+
+A valid ORF has been found for gene UL25!
+
+A valid ORF has been found for gene UL70!
+
+A valid ORF has been found for gene UL142!
+
+A valid ORF has been found for gene UL117!
+
+A valid ORF has been found for gene UL5!
+
+A valid ORF has been found for gene UL147A!
+
+A valid ORF has been found for gene UL150A!
+
+A valid ORF has been found for gene UL2!
+
+A valid ORF has been found for gene UL52!
+
+A valid ORF has been found for gene UL135!
+
+A valid ORF has been found for gene UL55!
+
+A valid ORF has been found for gene UL132!
+
+A valid ORF has been found for gene UL41A!
+
+A valid ORF has been found for gene UL40!
+
+A valid ORF has been found for gene UL120!
+
+A valid ORF has been found for gene UL47!
+
+A valid ORF has been found for gene UL22A!
+
+A valid ORF has been found for gene UL71!
+
+A valid ORF has been found for gene UL24!
+
+A valid ORF has been found for gene UL116!
+
+A valid ORF has been found for gene UL89!
+
+A valid ORF has been found for gene UL76!
+
+A valid ORF has been found for gene UL23!
+
+A valid ORF has been found for gene UL144!
+
+A valid ORF has been found for gene RL13!
+
+A valid ORF has been found for gene US8!
+
+A valid ORF has been found for gene US34A!
+
+A valid ORF has been found for gene UL104!
+
+A valid ORF has been found for gene UL36!
+
+A valid ORF has been found for gene UL103!
+
+A valid ORF has been found for gene UL80.5!
+
+A valid ORF has been found for gene UL31!
+
